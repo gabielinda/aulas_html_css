@@ -1,0 +1,10 @@
+h1 {
+    background: rgb(139, 145, 238);
+    color: pink;
+}
+
+p{
+    background: pink;
+    color: rgb(139, 145, 238);
+    font-size: 24px;
+}
